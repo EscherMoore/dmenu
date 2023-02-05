@@ -4,5 +4,6 @@ dmenu_path
 dmenu_run
 *.o
 *.orig
+patches
 *.rej
 stest
